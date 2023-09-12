@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Lyes Mehaddene
 
-#### I'm a passionate web developer with a diverse background that includes technical project management and a solid foundation in web development technologies. My journey began in project management, where I honed my skills in planning, organizing, and delivering successful projects. However, my desire to create and innovate led me to transition into web development.
+#### I'm a web developer with a diverse background that includes technical project management and a solid foundation in web development technologies. My journey began in project management, where I succesfully showed my skills in planning, organizing, and delivering successful web applications to prestigious clients. However, my desire to create and innovate led me to transition into web development.
 
 🚀 Skills & Technologies
 - Frontend: React.js (currently learning), HTML5, CSS3, JavaScript
@@ -12,4 +12,4 @@
 
 
 🤝 Let's Connect
-Currently looking for new opportunities, collaborations, and discussions. If you'd like to connect, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/lyes-m/)
+I'm actively seeking new opportunities and collaborations as a backend or fullstack web developer. Please do not hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/lyes-m/).
